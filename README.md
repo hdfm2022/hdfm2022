@@ -3,7 +3,7 @@
 - 📫 hdfmacedo@gmail.com
 
 - 🌱 Ago/2021 - Revisão Básica Javascript
--- (1) Youtube - Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos [1:28:19 de 4:35:31]
+  (1) Youtube - Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos [1:28:19 de 4:35:31]
 
 <!---
 hdfm2022/hdfm2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
