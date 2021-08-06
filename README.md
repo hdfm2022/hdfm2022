@@ -3,11 +3,11 @@
 - 📫 hdfmacedo@gmail.com
 
 Objetivos Ago/2021:
-[**____] Revisão base Javascript
-[______] Cursos avançados Javascript
-[______] Typescript
-[_____ ] Node.js
-[_____ ] React
+- [**----] Revisão base Javascript
+- [------] Cursos avançados Javascript
+- [------] Typescript
+- [------] Node.js
+- [------] React
 
 
 🌱🌱 Youtube - Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos [1:28:19 de 4:35:31]
