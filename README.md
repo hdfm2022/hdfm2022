@@ -2,7 +2,13 @@
 - 👀 Estou interessado em aprender diversas coisas novas, já que no dia a dia de trabalho estou um pouco preso em um sistema antigo e tarefas de gestão de equipe e projetos
 - 📫 hdfmacedo@gmail.com
 
-🌱 Ago/2021 - Revisão Básica Javascript
+Objetivos Ago/2021:
+[**____] Revisão base Javascript
+[______] Cursos avançados Javascript
+[______] Typescript
+[_____ ] Node.js
+[_____ ] React
+
 
 🌱🌱 Youtube - Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos [1:28:19 de 4:35:31]
 
